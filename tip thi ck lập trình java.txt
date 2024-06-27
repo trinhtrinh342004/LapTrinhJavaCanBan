@@ -1,0 +1,11 @@
+- ko cần try catch
+- chỉ cần khai báo Connection conn;(ko cần null)
+- ko import
+- khai bao Connection conn, rồi xài thôi, ko ghi sqlser:localhots...
+- khai báo các biến thuộc các control, ví dụ private Textfield txt,...
+xem file mytable.java thầy gửi
+- không: tạo frame, layout, setvisibe, setlayout, setlocation, setSize
+- không cần câu lệnh tạo các control, chỉ cần bắt sự kiện
+- không cần tạo các label, tuy nhiên khi khai báo thì đặt tên dễ hiểu
+vd: textFieldHoTen
+- không override

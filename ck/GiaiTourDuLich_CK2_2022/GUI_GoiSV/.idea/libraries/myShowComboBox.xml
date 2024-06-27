@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="myShowComboBox">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/myShowComboBox/dist/myShowComboBox.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

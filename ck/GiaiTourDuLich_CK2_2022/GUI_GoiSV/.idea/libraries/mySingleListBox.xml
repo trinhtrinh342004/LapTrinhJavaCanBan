@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mySingleListBox">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mySingleListBox/dist/mySingleListBox.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

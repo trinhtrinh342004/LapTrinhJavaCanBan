@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="myDateChoose1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/myDateChoose/dist/myDateChoose.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="myChangeColor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/myChangeColor/dist/myChangeColor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
